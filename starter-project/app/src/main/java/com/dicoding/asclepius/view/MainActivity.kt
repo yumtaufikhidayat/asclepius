@@ -25,9 +25,9 @@ class MainActivity : AppCompatActivity() {
             ActivityResultContracts.RequestPermission()
         ) { isGranted: Boolean ->
             if (!isGranted)
-                showToast("Permission request denied")
+                showToast(getString(R.string.permission_denied))
             else
-                showToast("Permission request granted")
+                showToast(getString(R.string.permission_granted))
         }
 
     private fun allPermissionsGranted() =

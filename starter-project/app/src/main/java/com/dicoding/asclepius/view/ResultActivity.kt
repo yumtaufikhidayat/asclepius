@@ -7,6 +7,7 @@ import com.dicoding.asclepius.R
 import com.dicoding.asclepius.databinding.ActivityResultBinding
 
 class ResultActivity : AppCompatActivity() {
+
     private val binding by lazy { ActivityResultBinding.inflate(layoutInflater) }
 
     override fun onCreate(savedInstanceState: Bundle?) {

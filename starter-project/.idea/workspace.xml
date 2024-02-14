@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: add extra new line.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="52e3fb52-2d1f-41aa-9b65-1058ef5f0b05" name="DON'T COMMIT" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +19,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.18.13:5555]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[10DD4D095R000CK]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -35,17 +35,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/yumtaufikhidayat/Documents/VersionControl/github/asclepius/starter-project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yumtaufikhidayat/Documents/VersionControl/github/asclepius/starter-project&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="Asclepius.app.main" />
@@ -119,11 +119,43 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="" />
+      <changelist id="52e3fb52-2d1f-41aa-9b65-1058ef5f0b05" name="DON'T COMMIT" comment="" />
       <created>1707691726710</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707691726710</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update: add some string resource.">
+      <option name="closed" value="true" />
+      <created>1707692999450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707692999450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update: move hardcoded string to strings.xml file.">
+      <option name="closed" value="true" />
+      <created>1707693018220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707693018220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update: add extra new line.">
+      <option name="closed" value="true" />
+      <created>1707693032315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707693032315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update: add some string resource." />
+    <MESSAGE value="Update: move hardcoded string to strings.xml file." />
+    <MESSAGE value="Update: add extra new line." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: add extra new line." />
   </component>
 </project>

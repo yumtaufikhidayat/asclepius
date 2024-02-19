@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: update local project." />
+    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: remove camera permission." />
     <list id="52e3fb52-2d1f-41aa-9b65-1058ef5f0b05" name="DON'T COMMIT" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
@@ -194,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708164512160</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update: update local project.">
+      <option name="closed" value="true" />
+      <created>1708224117381</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708224117381</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update: remove camera permission.">
+      <option name="closed" value="true" />
+      <created>1708224177917</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708224177917</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,6 +218,7 @@
     <MESSAGE value="Update: move hardcoded string to strings.xml file." />
     <MESSAGE value="Update: add extra new line." />
     <MESSAGE value="Update: update local project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: update local project." />
+    <MESSAGE value="Update: remove camera permission." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: remove camera permission." />
   </component>
 </project>

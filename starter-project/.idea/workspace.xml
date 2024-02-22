@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: remove camera permission." />
+    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: update local project." />
     <list id="52e3fb52-2d1f-41aa-9b65-1058ef5f0b05" name="DON'T COMMIT" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
@@ -16,7 +16,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[10DD4D095R000CK]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -210,15 +210,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708224177917</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update: remove camera permission.">
+      <option name="closed" value="true" />
+      <created>1708306192871</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708306192871</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update: update local project.">
+      <option name="closed" value="true" />
+      <created>1708306268605</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708306268605</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update: add some string resource." />
     <MESSAGE value="Update: move hardcoded string to strings.xml file." />
     <MESSAGE value="Update: add extra new line." />
-    <MESSAGE value="Update: update local project." />
     <MESSAGE value="Update: remove camera permission." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: remove camera permission." />
+    <MESSAGE value="Update: update local project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: update local project." />
   </component>
 </project>

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: update local project." />
+    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: update local project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="52e3fb52-2d1f-41aa-9b65-1058ef5f0b05" name="DON'T COMMIT" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
@@ -226,7 +228,39 @@
       <option name="project" value="LOCAL" />
       <updated>1708306268605</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update: update local project.">
+      <option name="closed" value="true" />
+      <created>1708561586352</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708561586352</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update: update local project.">
+      <option name="closed" value="true" />
+      <created>1708561590983</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708561590983</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update: update local project.">
+      <option name="closed" value="true" />
+      <created>1708648942251</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708648942251</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update: update local project.">
+      <option name="closed" value="true" />
+      <created>1708648948066</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708648948066</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

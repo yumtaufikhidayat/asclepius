@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: local project.">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="31e623aa-54d2-4133-b8c9-e2adbab8ff37" name="Changes" comment="Update: local project." />
     <list id="52e3fb52-2d1f-41aa-9b65-1058ef5f0b05" name="DON'T COMMIT" comment="Update: update local project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[192.168.18.13:5555]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -140,22 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707691726710</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Update: add extra new line.">
-      <option name="closed" value="true" />
-      <created>1707693032315</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1707693032315</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Update: update local project.">
-      <option name="closed" value="true" />
-      <created>1707907520822</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1707907520822</updated>
     </task>
     <task id="LOCAL-00005" summary="Update: update local project.">
       <option name="closed" value="true" />
@@ -533,7 +514,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711183239125</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Update: local project.">
+      <option name="closed" value="true" />
+      <created>1711245785765</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1711245785765</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Update: local project.">
+      <option name="closed" value="true" />
+      <created>1711245791035</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1711245791035</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
